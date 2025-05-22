@@ -1,0 +1,494 @@
+query,seed_topic
+"""Upcoming meetings with John""",Meetings with a specific person
+"""Calendar view by attendee: Jane Smith""",Meetings with a specific person
+"""Show me all events with Michael""",Meetings with a specific person
+What's my schedule today?,Events scheduled for today or tomorrow
+Show me tomorrow's events,Events scheduled for today or tomorrow
+Today's appointments,Events scheduled for today or tomorrow
+Schedule for now,Events scheduled for today or tomorrow
+Tomorrow's meetings,Events scheduled for today or tomorrow
+My calendar today,Events scheduled for today or tomorrow
+Upcoming events,Events scheduled for today or tomorrow
+Today only,Events scheduled for today or tomorrow
+Tomorrow's schedule,Events scheduled for today or tomorrow
+Events in a minute,Events scheduled for today or tomorrow
+Show me the schedule,Events scheduled for today or tomorrow
+What am I doing today?,Events scheduled for today or tomorrow
+Calendar view tomorrow,Events scheduled for today or tomorrow
+Today's schedule,Events scheduled for today or tomorrow
+Quick look at my day,Events scheduled for today or tomorrow
+Schedule for tonight too,Events scheduled for today or tomorrow
+Find out what's going on tomorrow,Events scheduled for today or tomorrow
+My daily events,Events scheduled for today or tomorrow
+Tomorrow morning events,Events scheduled for today or tomorrow
+Event list for today,Events scheduled for today or tomorrow
+Check the schedule now,Events scheduled for today or tomorrow
+All tomorrow events,Events scheduled for today or tomorrow
+Show me right away,Events scheduled for today or tomorrow
+Events for next hour,Events scheduled for today or tomorrow
+Today's appointments only,Events scheduled for today or tomorrow
+Show me upcoming weekly standups,Recurring events like weekly standups or classes
+What's my schedule like this week?,Recurring events like weekly standups or classes
+Where is class on Friday?,Recurring events like weekly standups or classes
+How many times does I have yoga this month?,Recurring events like weekly standups or classes
+Show me all classes for next 2 weeks,Recurring events like weekly standups or classes
+What time is my meeting today?,Recurring events like weekly standups or classes
+Can I see only recurring events for the quarter?,Recurring events like weekly standups or classes
+Is there a weekly team call tonight?,Recurring events like weekly standups or classes
+How can I cancel my monthly coaching session?,Recurring events like weekly standups or classes
+What's my schedule like after work every Monday?,Recurring events like weekly standups or classes
+Show me all standups in the next 4 weeks,Recurring events like weekly standups or classes
+What day is my birthday party again?,Recurring events like weekly standups or classes
+When are we having the quarterly review?,Recurring events like weekly standups or classes
+Can I see only recurring appointments for today?,Recurring events like weekly standups or classes
+How many times does I have a doctor's appointment this week?,Recurring events like weekly standups or classes
+Show me all meetings with John next month,Recurring events like weekly standups or classes
+Is there a daily team meeting at 2pm?,Recurring events like weekly standups or classes
+How can I add a new class to my schedule?,Recurring events like weekly standups or classes
+What time is our monthly sync meeting?,Recurring events like weekly standups or classes
+Can I see only recurring events for the current month?,Recurring events like weekly standups or classes
+Where is class on Saturday?,Recurring events like weekly standups or classes
+Show me all weekly standups for the next quarter,Recurring events like weekly standups or classes
+When does our team's project deadline fall?,Recurring events like weekly standups or classes
+How many times does I have a workout session this week?,Recurring events like weekly standups or classes
+What time are we having lunch tomorrow?,Recurring events like weekly standups or classes
+What's rescheduled from Feb 10?,Canceled or rescheduled events
+Show me all canceled events,Canceled or rescheduled events
+Find rescheduled events in March,Canceled or rescheduled events
+Which event was canceled and rescheduled?,Canceled or rescheduled events
+Rescheduled events this month,Canceled or rescheduled events
+Cancelled events today,Canceled or rescheduled events
+Reschedule Feb 15 to next week,Canceled or rescheduled events
+Show me all past rescheduled events,Canceled or rescheduled events
+Canceled events for tomorrow,Canceled or rescheduled events
+What's the rescheduled date of my Feb 20 event?,Canceled or rescheduled events
+List upcoming canceled events,Canceled or rescheduled events
+Show me my rescheduled meetings,Canceled or rescheduled events
+Which event was originally scheduled on Jan 1 and rescheduled?,Canceled or rescheduled events
+Today's canceled events,Canceled or rescheduled events
+Reschedule today's meeting to next week,Canceled or rescheduled events
+Find all past canceled events,Canceled or rescheduled events
+Is my Feb 5 event still on or rescheduled?,Canceled or rescheduled events
+Cancelled events for next month,Canceled or rescheduled events
+Reschedule Saturday's event to Monday instead,Canceled or rescheduled events
+Show me my rescheduled appointments,Canceled or rescheduled events
+What time was my original Feb 12 event rescheduled to?,Canceled or rescheduled events
+List today's canceled and rescheduled events,Canceled or rescheduled events
+Can you find the rescheduled date of my March 15 event?,Canceled or rescheduled events
+Find all upcoming rescheduled events,Canceled or rescheduled events
+Which event got rescheduled due to weather?,Canceled or rescheduled events
+Show me upcoming Zoom meetings,Events with Zoom or Google Meet links
+What are my Google Meet appointments today?,Events with Zoom or Google Meet links
+Find all events with Google Meet links this week,Events with Zoom or Google Meet links
+Upcoming calls to add to calendar,Events with Zoom or Google Meet links
+Schedule a call in Google Meet,Events with Zoom or Google Meet links
+Show only Zoom meetings for tomorrow,Events with Zoom or Google Meet links
+List of Google Meet events this month,Events with Zoom or Google Meet links
+Add a new meeting with Zoom link,Events with Zoom or Google Meet links
+Google Meet schedule for next two weeks,Events with Zoom or Google Meet links
+Zoom or Google Meet events at 2 PM today,Events with Zoom or Google Meet links
+Cancel upcoming Google Meet meeting,Events with Zoom or Google Meet links
+Find all scheduled Zoom meetings on Friday,Events with Zoom or Google Meet links
+What are my Google Meet appointments next week?,Events with Zoom or Google Meet links
+Delete old Google Meet event,Events with Zoom or Google Meet links
+Add new event with Zoom link,Events with Zoom or Google Meet links
+Show only upcoming Google Meet meetings,Events with Zoom or Google Meet links
+List of events with both Zoom and Google Meet links,Events with Zoom or Google Meet links
+Upcoming Google Meet meeting for team,Events with Zoom or Google Meet links
+Create a new Zoom meeting invite,Events with Zoom or Google Meet links
+Cancel current Zoom meeting,Events with Zoom or Google Meet links
+Google Meet schedule for the week,Events with Zoom or Google Meet links
+Find all scheduled calls to add,Events with Zoom or Google Meet links
+Delete old Zoom event,Events with Zoom or Google Meet links
+Create new Google Meet meeting room,Events with Zoom or Google Meet links
+Show only events with both Zoom and Google Meet links,Events with Zoom or Google Meet links
+Show me my gym session on Friday,"Personal events (e.g., birthdays, gym sessions, doctor appointments)"
+Find all birthdays this month,"Personal events (e.g., birthdays, gym sessions, doctor appointments)"
+What's my doctor appointment today?,"Personal events (e.g., birthdays, gym sessions, doctor appointments)"
+Add new event for dinner tonight,"Personal events (e.g., birthdays, gym sessions, doctor appointments)"
+Upcoming personal events next week,"Personal events (e.g., birthdays, gym sessions, doctor appointments)"
+"Delete event with ""Meeting"" in subject line","Personal events (e.g., birthdays, gym sessions, doctor appointments)"
+Who's my sister's birthday,"Personal events (e.g., birthdays, gym sessions, doctor appointments)"
+Find a recurring event,"Personal events (e.g., birthdays, gym sessions, doctor appointments)"
+Show upcoming appointments with Dr Smith,"Personal events (e.g., birthdays, gym sessions, doctor appointments)"
+Schedule coffee with John tomorrow,"Personal events (e.g., birthdays, gym sessions, doctor appointments)"
+Remove event from Friday,"Personal events (e.g., birthdays, gym sessions, doctor appointments)"
+What time is my yoga class Saturday,"Personal events (e.g., birthdays, gym sessions, doctor appointments)"
+List all events on Sunday,"Personal events (e.g., birthdays, gym sessions, doctor appointments)"
+"Change event title ""Job Interview""","Personal events (e.g., birthdays, gym sessions, doctor appointments)"
+Get reminders for Monday's meeting,"Personal events (e.g., birthdays, gym sessions, doctor appointments)"
+Create a new recurring appointment,"Personal events (e.g., birthdays, gym sessions, doctor appointments)"
+Show me this week's personal events,"Personal events (e.g., birthdays, gym sessions, doctor appointments)"
+Find an event with a specific guest name (Emily),"Personal events (e.g., birthdays, gym sessions, doctor appointments)"
+Mark as done tomorrow's task,"Personal events (e.g., birthdays, gym sessions, doctor appointments)"
+Add note to next Friday's meeting,"Personal events (e.g., birthdays, gym sessions, doctor appointments)"
+List all events on my birthday month,"Personal events (e.g., birthdays, gym sessions, doctor appointments)"
+Cancel upcoming doctor visit,"Personal events (e.g., birthdays, gym sessions, doctor appointments)"
+Find the earliest appointment I have this week,"Personal events (e.g., birthdays, gym sessions, doctor appointments)"
+Schedule a reminder for 3pm today,"Personal events (e.g., birthdays, gym sessions, doctor appointments)"
+Remove event from my calendar,"Personal events (e.g., birthdays, gym sessions, doctor appointments)"
+"""Upcoming events in New York City""",Events at a specific location or city
+"""Today's events near me""",Events at a specific location or city
+"""Events happening tomorrow in downtown LA""",Events at a specific location or city
+What's my availability on Sat March 18?,Free time or availability on a specific day
+When am I free this week?,Free time or availability on a specific day
+Check my schedule for today,Free time or availability on a specific day
+"""Find overlapping events today""",Overlapping or conflicting events
+"""What's conflicting with my meeting at 2pm?""",Overlapping or conflicting events
+"""Events on the same day as tomorrow""",Overlapping or conflicting events
+What's my schedule this week?,Events created by me
+Upcoming meetings,Events created by me
+Events for today,Events created by me
+My events this weekend,Events created by me
+Show me all my upcoming appointments,Events created by me
+Schedule for tomorrow,Events created by me
+What's my calendar like right now,Events created by me
+All events in 2 weeks,Events created by me
+Show me what I have on Monday,Events created by me
+Any events tonight,Events created by me
+What are my commitments next week,Events created by me
+My schedule for the day,Events created by me
+Events between Thursday and Friday,Events created by me
+Today's appointments,Events created by me
+Show me all events in March,Events created by me
+Upcoming birthdays,Events created by me
+What time do I have a meeting today,Events created by me
+This week's schedule,Events created by me
+Any events with Sarah tomorrow,Events created by me
+My schedule from Monday to Friday,Events created by me
+Show me what's coming up next month,Events created by me
+Events starting at 2pm today,Events created by me
+How many events do I have on the 15th,Events created by me
+What are my appointments in April,Events created by me
+Quick view of my calendar,Events created by me
+Show me my upcoming tasks,Reminders or tasks scheduled
+Reminders for tomorrow and Friday,Reminders or tasks scheduled
+What's due today,Reminders or tasks scheduled
+What are my all-day events today?,All-day events
+Show me today's all-day appointments,All-day events
+Which events last the whole day?,All-day events
+List all-day events on Friday,All-day events
+What's on my calendar for a full day?,All-day events
+Today's all-day schedule,All-day events
+Find events that start and end on the same day,All-day events
+Display daily events for tomorrow,All-day events
+All-day events this weekend,All-day events
+Upcoming all-day appointments,All-day events
+Show me today's all-day meetings,All-day events
+What are my one-day commitments?,All-day events
+Full-day events in my calendar,All-day events
+List daily scheduled events,All-day events
+Events that span the entire day,All-day events
+What's on my calendar for a full 24 hours?,All-day events
+Today's all-day schedule,All-day events
+List of full-day appointments,All-day events
+What time are my one-day events?,All-day events
+All-day schedule today,All-day events
+Find events that last an entire day,All-day events
+Display daily events in my calendar,All-day events
+Full-day scheduled events,All-day events
+My one-day commitments for this week,All-day events
+Today's full-day appointments,All-day events
+Show me weekend events,Events during weekends or holidays
+What's happening on Sat?,Events during weekends or holidays
+Find all holidays this month,Events during weekends or holidays
+Schedule something Sat/Sun,Events during weekends or holidays
+List upcoming holidays,Events during weekends or holidays
+Events in Feb Fri-Sun,Events during weekends or holidays
+Get a list of holiday events,Events during weekends or holidays
+Weekend events only,Events during weekends or holidays
+Sat and Sun appointments,Events during weekends or holidays
+Holiday calendar for Feb,Events during weekends or holidays
+Show me this weekend's schedule,Events during weekends or holidays
+Schedule an event Sat,Events during weekends or holidays
+"Only show weekends, please",Events during weekends or holidays
+What is on Feb 17?,Events during weekends or holidays
+Fri-Sun events in Feb,Events during weekends or holidays
+Upcoming weekend events,Events during weekends or holidays
+List all Sat and Sun events,Events during weekends or holidays
+This weekend only,Events during weekends or holidays
+Find my upcoming holidays,Events during weekends or holidays
+Show me events for the wknd,Events during weekends or holidays
+Schedule something next Sat/Sun,Events during weekends or holidays
+Events on Sat and Sun,Events during weekends or holidays
+What's happening this wknd?,Events during weekends or holidays
+List Fri-Sun appointments,Events during weekends or holidays
+Holiday schedule Feb 1-28,Events during weekends or holidays
+What's my schedule for tomorrow?,Work-related events or meetings
+Upcoming meetings on Friday,Work-related events or meetings
+Today's work events,Work-related events or meetings
+This week's deadlines,Work-related events or meetings
+Events after lunch,Work-related events or meetings
+All my work appointments,Work-related events or meetings
+Schedule today only,Work-related events or meetings
+What's next week's agenda like,Work-related events or meetings
+Work hours tonight,Work-related events or meetings
+Meeting with John at 2pm,Work-related events or meetings
+Is there a meeting scheduled for 3pm?,Work-related events or meetings
+My weekly review schedule,Work-related events or meetings
+Time block for project X,Work-related events or meetings
+This quarter's objectives meetings,Work-related events or meetings
+Events all day Saturday,Work-related events or meetings
+What's on the calendar for Monday,Work-related events or meetings
+Upcoming work calls,Work-related events or meetings
+Schedule change request,Work-related events or meetings
+All my work commitments,Work-related events or meetings
+Meeting room availability tonight,Work-related events or meetings
+My daily routine schedule,Work-related events or meetings
+Work appointments this week,Work-related events or meetings
+Is there a meeting at 5pm?,Work-related events or meetings
+Calendar view by date range,Work-related events or meetings
+How many meetings does John have,Work-related events or meetings
+What's coming up on my shared calendar this week?,Events from shared calendars
+Show me all events in the Marketing team calendar,Events from shared calendars
+Find any meetings I have with Sarah today,Events from shared calendars
+Show me all high priority events today,Events tagged as high priority or urgent
+What urgent meetings do I have tomorrow?,Events tagged as high priority or urgent
+Find and mark as done any pending tasks due this week,Events tagged as high priority or urgent
+List upcoming events with a start time under 2 hours,Events tagged as high priority or urgent
+What's my first high priority meeting?,Events tagged as high priority or urgent
+"Find events on Friday and tag them as ""urgent""",Events tagged as high priority or urgent
+Show me only my schedule for today,Events tagged as high priority or urgent
+Get all events that need to be completed by end of month,Events tagged as high priority or urgent
+What urgent tasks are due soon?,Events tagged as high priority or urgent
+Highlight upcoming events with a 3pm start time,Events tagged as high priority or urgent
+"Filter events by start time: this week, 2pm",Events tagged as high priority or urgent
+Find any high priority meetings I have next week,Events tagged as high priority or urgent
+Show me my schedule for the next 24 hours,Events tagged as high priority or urgent
+Get all events that require my attention today,Events tagged as high priority or urgent
+"List upcoming events tagged as ""high priority""",Events tagged as high priority or urgent
+What's my first meeting of the day?,Events tagged as high priority or urgent
+Filter by urgent: all events this week,Events tagged as high priority or urgent
+Find and mark as done any tasks with a due date tomorrow,Events tagged as high priority or urgent
+Show me only events from 2pm onwards,Events tagged as high priority or urgent
+Get all high priority meetings I have scheduled,Events tagged as high priority or urgent
+Highlight upcoming events on Monday and Tuesday,Events tagged as high priority or urgent
+"Find events tagged as ""urgent"" that require my action today",Events tagged as high priority or urgent
+What's the earliest start time for an urgent event?,Events tagged as high priority or urgent
+List events due within the next 3 days,Events tagged as high priority or urgent
+Show me only my schedule for tomorrow,Events tagged as high priority or urgent
+What's my schedule next week?,Upcoming events in the next 7 days
+Show me upcoming events,Upcoming events in the next 7 days
+Events in the next 7 days,Upcoming events in the next 7 days
+Upcoming appointments today/this week,Upcoming events in the next 7 days
+Schedule for tomorrow,Upcoming events in the next 7 days
+Events next month,Upcoming events in the next 7 days
+Weekday calendar,Upcoming events in the next 7 days
+Events with guests added,Upcoming events in the next 7 days
+Upcoming meetings,Upcoming events in the next 7 days
+Calendar view for this week,Upcoming events in the next 7 days
+What's my schedule like in 2 weeks?,Upcoming events in the next 7 days
+Today's events,Upcoming events in the next 7 days
+Show me upcoming social events,Upcoming events in the next 7 days
+Schedule today,Upcoming events in the next 7 days
+Reminders for next Thursday,Upcoming events in the next 7 days
+Weekday calendar view,Upcoming events in the next 7 days
+Events with travel time included,Upcoming events in the next 7 days
+Upcoming birthdays,Upcoming events in the next 7 days
+What's on my calendar for Monday,Upcoming events in the next 7 days
+Event reminders in the next 2 days,Upcoming events in the next 7 days
+Calendar overview for this week,Upcoming events in the next 7 days
+Show me all upcoming events,Upcoming events in the next 7 days
+Schedule for Friday and Saturday,Upcoming events in the next 7 days
+Events that require a flight,Upcoming events in the next 7 days
+Next weekend schedule,Upcoming events in the next 7 days
+What unresponded events have I got coming up?,Events that were declined or not responded to
+Declined meetings this week,Events that were declined or not responded to
+Unscheduled appointments today,Events that were declined or not responded to
+Unaccepted social events,Events that were declined or not responded to
+Missed meetups in February,Events that were declined or not responded to
+Events that were declined by me,Events that were declined or not responded to
+Uninvited guests for dinner,Events that were declined or not responded to
+Calender unconfirmations,Events that were declined or not responded to
+Cancelled appointments last month,Events that were declined or not responded to
+Unresponed invites,Events that were declined or not responded to
+Meetings I didn't show up to,Events that were declined or not responded to
+Scheduled events nobody showed up to,Events that were declined or not responded to
+Calendar declines this week,Events that were declined or not responded to
+Unaccepted social invitations,Events that were declined or not responded to
+Missed dates with friends,Events that were declined or not responded to
+Events that weren't accepted by me,Events that were declined or not responded to
+Calender no-shows last month,Events that were declined or not responded to
+Social event invites that were declined,Events that were declined or not responded to
+Unscheduled events today,Events that were declined or not responded to
+Unconfirmed meetups,Events that were declined or not responded to
+Declined booking appointments,Events that were declined or not responded to
+Calendar unresponses this week,Events that were declined or not responded to
+Missed bookings in January,Events that were declined or not responded to
+Events I didn't respond to,Events that were declined or not responded to
+Calender missed meetings,Events that were declined or not responded to
+One on one meetings today,One-on-one vs group meetings
+What time is my group meeting?,One-on-one vs group meetings
+Schedule a new one-on-one meeting,One-on-one vs group meetings
+Who's attending the meeting at 2pm,One-on-one vs group meetings
+How many people are in the team meeting,One-on-one vs group meetings
+What time does it end?,One-on-one vs group meetings
+Can I move this event to tomorrow,One-on-one vs group meetings
+Is there room for an extra person in the group meeting,One-on-one vs group meetings
+Set reminders for both meetings,One-on-one vs group meetings
+Group meeting today,One-on-one vs group meetings
+When is my one on one meeting with John,One-on-one vs group meetings
+How long are we keeping the team meeting open,One-on-one vs group meetings
+Create a new meeting invite,One-on-one vs group meetings
+What time does my meeting end?,One-on-one vs group meetings
+Team meeting duration,One-on-one vs group meetings
+Can I schedule an alternative time for this one-on-one,One-on-one vs group meetings
+Number of attendees in group meeting,One-on-one vs group meetings
+Schedule today's one on one,One-on-one vs group meetings
+Find upcoming one-on-one meetings,One-on-one vs group meetings
+Is there space for an additional guest in the team meeting,One-on-one vs group meetings
+Meeting invite details,One-on-one vs group meetings
+Schedule a new meeting,One-on-one vs group meetings
+How long before my group meeting should I start preparing,One-on-one vs group meetings
+Upcoming team meeting times,One-on-one vs group meetings
+What time do we take a break,One-on-one vs group meetings
+"Show me all events with ""project deadline""",Events with certain keywords in title or description
+What's my meeting on Friday?,Events with certain keywords in title or description
+Find upcoming birthday party,Events with certain keywords in title or description
+"See all events with ""team meeting""",Events with certain keywords in title or description
+What are my appointments tomorrow,Events with certain keywords in title or description
+Is today a holiday?,Events with certain keywords in title or description
+Schedule a lunch meeting at 2 PM,Events with certain keywords in title or description
+My birthday party is next week,Events with certain keywords in title or description
+Show me all client meetings for this month,Events with certain keywords in title or description
+Reminder: conference call in an hour,Events with certain keywords in title or description
+"Find events with ""team building""",Events with certain keywords in title or description
+What's my appointment on Monday afternoon,Events with certain keywords in title or description
+Today's schedule,Events with certain keywords in title or description
+See upcoming events with travel,Events with certain keywords in title or description
+Schedule a meeting with John at 3 PM,Events with certain keywords in title or description
+Upcoming appointments,Events with certain keywords in title or description
+Is there a company event today?,Events with certain keywords in title or description
+Show me all recurring events,Events with certain keywords in title or description
+Reminder: presentation in an hour,Events with certain keywords in title or description
+"Find events with ""workshop""",Events with certain keywords in title or description
+What's my schedule like tomorrow,Events with certain keywords in title or description
+My birthday party details,Events with certain keywords in title or description
+Schedule a team meeting at 10 AM,Events with certain keywords in title or description
+Today's schedule and reminders,Events with certain keywords in title or description
+See all events for next weekend,Events with certain keywords in title or description
+"""Upcoming back-to-back meetings""",Back-to-back meetings
+"""Meetings with multiple dates in one day""",Back-to-back meetings
+"""Back-to-back meeting schedule today""",Back-to-back meetings
+Show me my upcoming appointments this week,Past events within a specific date range
+What's happening tomorrow and next Friday?,Past events within a specific date range
+My schedule for the past month,Past events within a specific date range
+Upcoming events after March 15th,Past events within a specific date range
+Events I have in April,Past events within a specific date range
+Schedule for today and tomorrow,Past events within a specific date range
+What events were scheduled for last year,Past events within a specific date range
+Events from Feb 1st to March 31st,Past events within a specific date range
+Show me my daily schedule for next week,Past events within a specific date range
+Reminders from the past month,Past events within a specific date range
+What's my schedule like today?,Morning or evening events
+Morning appointments,Morning or evening events
+Schedule tonight,Morning or evening events
+Is there an evening event,Morning or evening events
+Evening events this weekend,Morning or evening events
+What's my schedule for tomorrow,Morning or evening events
+Any events at 6pm,Morning or evening events
+My morning routine,Morning or evening events
+Can I fit in a workout?,Morning or evening events
+Afternoon meeting today,Morning or evening events
+Is it 7pm yet,Morning or evening events
+Schedule this weekend,Morning or evening events
+Evenings only,Morning or evening events
+Events after 5pm tonight,Morning or evening events
+Do I have time for lunch?,Morning or evening events
+Morning and afternoon events,Morning or evening events
+How many appointments do I have?,Morning or evening events
+My evening plans,Morning or evening events
+Can you check my schedule,Morning or evening events
+Any events at 8pm,Morning or evening events
+Schedule changes,Morning or evening events
+Is there a meeting this morning,Morning or evening events
+Morning or afternoon availability,Morning or evening events
+All events tonight,Morning or evening events
+What's on my calendar,Morning or evening events
+Find me all events over an hour long today,Events that last more than 1 hour
+What's my schedule for tomorrow if it's more than 60 minutes?,Events that last more than 1 hour
+I want upcoming events longer than one hour.,Events that last more than 1 hour
+What are my recurring events that I missed?,Recurring events that were skipped or modified
+Find me all cancelled events,Recurring events that were skipped or modified
+Check if event was changed from all-day to half-day,Recurring events that were skipped or modified
+Upcoming team meetings involving marketing department,Team meetings involving a specific department
+Show me today's and tomorrow's team meetings with sales,Team meetings involving a specific department
+What are all my team meeting events this week?,Team meetings involving a specific department
+Meetings with HR team this month,Team meetings involving a specific department
+Find all scheduled meetings for the IT department next quarter,Team meetings involving a specific department
+Today's team meeting minutes from marketing,Team meetings involving a specific department
+Schedule a meeting with the marketing team,Team meetings involving a specific department
+Team meetings cancelled in January,Team meetings involving a specific department
+Which team lead has meetings at 2 PM today,Team meetings involving a specific department
+Show me my calendar events for this week only,Team meetings involving a specific department
+All meetings from Feb 1 - March 31 involving sales team,Team meetings involving a specific department
+Upcoming team meetings with the product team,Team meetings involving a specific department
+Find all recurring meetings involving customer service,Team meetings involving a specific department
+Team meeting invite to the R&D department,Team meetings involving a specific department
+Today's and tomorrow's IT meeting times,Team meetings involving a specific department
+All upcoming meetings for our marketing director,Team meetings involving a specific department
+Meeting details from the finance team this week,Team meetings involving a specific department
+Which of my events conflict with an existing meeting?,Team meetings involving a specific department
+Schedule a meeting with the HR team at 10 AM,Team meetings involving a specific department
+Upcoming weekly team meetings involving customer support,Team meetings involving a specific department
+Team meeting invite to the sales team on Friday,Team meetings involving a specific department
+Find all recurring meetings for the IT department,Team meetings involving a specific department
+Meetings from March 1 - April 30 with the design team,Team meetings involving a specific department
+Show me my calendar events from last week only,Team meetings involving a specific department
+Update reminders for all upcoming marketing team meetings,Team meetings involving a specific department
+Show me all events with attachments,Calendar events that include attachments or documents
+Find meetings with documents attached,Calendar events that include attachments or documents
+Get all calendar events that include files,Calendar events that include attachments or documents
+What are my virtual events today?,Virtual events vs in-person events
+Schedule an in-person meeting with John,Virtual events vs in-person events
+Who's coming to my event on Friday?,Virtual events vs in-person events
+Add my birthday party to calendar,Virtual events vs in-person events
+Delete the webinar from tomorrow,Virtual events vs in-person events
+What are my upcoming in-person appointments?,Virtual events vs in-person events
+Find a virtual conference for sales team,Virtual events vs in-person events
+Remind me of my online class,Virtual events vs in-person events
+Cancel the dinner meeting with Sarah,Virtual events vs in-person events
+List all events at 2 PM,Virtual events vs in-person events
+Mark the holiday party as private,Virtual events vs in-person events
+Add the podcast recording to schedule,Virtual events vs in-person events
+What are my scheduled in-person meetings this week?,Virtual events vs in-person events
+Remove the virtual meetup from my list,Virtual events vs in-person events
+Set reminders for my online course deadlines,Virtual events vs in-person events
+Find a virtual happy hour event with friends,Virtual events vs in-person events
+What are my upcoming events on Monday?,Virtual events vs in-person events
+Create a new virtual meeting invite for team,Virtual events vs in-person events
+Delete the email reminder about the conference,Virtual events vs in-person events
+List all virtual events for next week,Virtual events vs in-person events
+Remind me of my scheduled training session,Virtual events vs in-person events
+"Update the status of my online project to ""in progress""",Virtual events vs in-person events
+Schedule an in-person check-in with manager,Virtual events vs in-person events
+Find a virtual workshop on marketing strategy,Virtual events vs in-person events
+Cancel the RSVP for my friend's birthday party,Virtual events vs in-person events
+What's my 'Maybe' event for tomorrow?,Events where I'm marked as 'Maybe'
+Show me all unconfirmed events,Events where I'm marked as 'Maybe'
+My upcoming 'Maybe' events,Events where I'm marked as 'Maybe'
+What events are outside my work hours today?,Events outside my working hours
+Show me events after 5 pm tonight,Events outside my working hours
+Find all non-work hours events this week,Events outside my working hours
+Events after 9 am tomorrow,Events outside my working hours
+"My personal schedule only, no work events",Events outside my working hours
+Events outside of office hours today,Events outside my working hours
+Schedule view for evenings and weekends,Events outside my working hours
+All weekend events,Events outside my working hours
+Only show me family time,Events outside my working hours
+Work hours off until Monday morning,Events outside my working hours
+Evening and weekend events only,Events outside my working hours
+What's on my calendar after 7 pm tonight?,Events outside my working hours
+Filter out work commitments,Events outside my working hours
+"My personal calendar, no work events",Events outside my working hours
+Afternoon and evening events today,Events outside my working hours
+Weekdays evenings events,Events outside my working hours
+Events outside of office hours this week,Events outside my working hours
+Show me family schedule for tomorrow,Events outside my working hours
+Schedule view from 5 pm onwards,Events outside my working hours
+No work events on Fridays,Events outside my working hours
+Evening and weekend events until Sunday,Events outside my working hours
+All non-work time slots tonight,Events outside my working hours
+"Family time only, no work events",Events outside my working hours
+My personal calendar outside of work hours,Events outside my working hours
+Show me evening and weekend schedule,Events outside my working hours

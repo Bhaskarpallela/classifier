@@ -1,0 +1,452 @@
+query,seed
+Who sent me that email?,Sender or Recipient
+Emails from john,Sender or Recipient
+Sent to my dad,Sender or Recipient
+From my bank,Sender or Recipient
+Email from sarah,Sender or Recipient
+Recent emails from friends,Sender or Recipient
+Who's been emailing me lately,Sender or Recipient
+All emails from company email,Sender or Recipient
+Sarah's emails,Sender or Recipient
+Email address of customer service,Sender or Recipient
+What did my boss say about the project?,Sender or Recipient
+Emails with attachments,Sender or Recipient
+From my phone number,Sender or Recipient
+Emails with subject line meeting,Sender or Recipient
+What are new emails?,Sender or Recipient
+Send to my manager,Sender or Recipient
+Who is this email from,Sender or Recipient
+All sent by team lead,Sender or Recipient
+My colleagues' emails,Sender or Recipient
+New emails today,Sender or Recipient
+Email address of new supplier,Sender or Recipient
+Who emailed me last week,Sender or Recipient
+Emails with keywords marketing,Sender or Recipient
+Sent to my address,Sender or Recipient
+Recent emails,Sender or Recipient
+unread,Unread or Read
+read all emails,Unread or Read
+show me unsent emails,Unread or Read
+what's in my inbox?,Unread or Read
+unread stuff,Unread or Read
+unopened messages,Unread or Read
+show me everything,Unread or Read
+how many unread emails do i have?,Unread or Read
+filter by read status,Unread or Read
+only show me new emails,Unread or Read
+unopened mail,Unread or Read
+all unseen emails,Unread or Read
+unread and unopened,Unread or Read
+my inbox,Unread or Read
+what's new,Unread or Read
+unsent messages,Unread or Read
+check for unread emails,Unread or Read
+show me unread stuff,Unread or Read
+filter read emails,Unread or Read
+new emails only,Unread or Read
+how many emails are unread?,Unread or Read
+everything that needs to be seen,Unread or Read
+my unread messages,Unread or Read
+unseen emails today,Unread or Read
+show me the unread ones,Unread or Read
+"""Attachements today""",Emails with Attachments
+"""Show me emails with files""",Emails with Attachments
+"""E-mails with attachments this week""",Emails with Attachments
+star,Important or Starred
+important emails today,Important or Starred
+flagged inbox,Important or Starred
+starred messages,Important or Starred
+urgent emails,Important or Starred
+show me everything marked as important,Important or Starred
+what's new and starred,Important or Starred
+key emails flagged,Important or Starred
+can't miss emails,Important or Starred
+starred in last week,Important or Starred
+must see emails now,Important or Starred
+flag all unread,Important or Starred
+most starred messages,Important or Starred
+urgent & important,Important or Starred
+flagged by me today,Important or Starred
+starred from this morning,Important or Starred
+what's new and starred now,Important or Starred
+show me everything I've flagged,Important or Starred
+just starred emails,Important or Starred
+mark as read all flagged,Important or Starred
+today's starred ones,Important or Starred
+starred that need action,Important or Starred
+show me important emails only,Important or Starred
+starred messages by sender,Important or Starred
+filter to starred,Important or Starred
+what did i buy at target,Specific Words or Phrases
+emails from john smith,Specific Words or Phrases
+meeting notes april,Specific Words or Phrases
+what's the deadline again,Specific Words or Phrases
+receipts for march,Specific Words or Phrases
+update on project 123,Specific Words or Phrases
+bills to pay this month,Specific Words or Phrases
+confirm flight booking,Specific Words or Phrases
+reminder for tomorrow,Specific Words or Phrases
+company news 2023,Specific Words or Phrases
+emails with attachments,Specific Words or Phrases
+payment confirmation code,Specific Words or Phrases
+sales reports january,Specific Words or Phrases
+what's my password again,Specific Words or Phrases
+follow up email 2 weeks,Specific Words or Phrases
+meeting invite june,Specific Words or Phrases
+confirm travel dates,Specific Words or Phrases
+customer complaint form,Specific Words or Phrases
+budget report for q1,Specific Words or Phrases
+update on status,Specific Words or Phrases
+emails with attachments today,Specific Words or Phrases
+remind me of appointment,Specific Words or Phrases
+company policy document,Specific Words or Phrases
+what's the latest news,Specific Words or Phrases
+confirmation email template,Specific Words or Phrases
+what emails were sent yesterday,Emails by Date or Time
+received between Jan 1 - Feb 28,Emails by Date or Time
+all emails from this week,Emails by Date or Time
+"emails with subject ""work meeting""",Emails by Date or Time
+when did I get this email,Emails by Date or Time
+sent to johndoe@email.com in last month,Emails by Date or Time
+emails before Jan 15th,Emails by Date or Time
+new emails since monday,Emails by Date or Time
+all received emails on friday,Emails by Date or Time
+how old are these emails,Emails by Date or Time
+what time was my email sent,Emails by Date or Time
+"emails with keywords ""travel""",Emails by Date or Time
+emails from boss after hour,Emails by Date or Time
+what day did I get this email,Emails by Date or Time
+emails that have been read only once,Emails by Date or Time
+all unread emails in the last 24 hours,Emails by Date or Time
+when did john send me back an email,Emails by Date or Time
+new emails from janesmith@email.com,Emails by Date or Time
+emails before monday morning,Emails by Date or Time
+how many emails were sent today,Emails by Date or Time
+all emails with attachment,Emails by Date or Time
+received emails in december,Emails by Date or Time
+what time i got my first email of the day,Emails by Date or Time
+emails that are unread and older than a week,Emails by Date or Time
+when did I get this email last,Emails by Date or Time
+replies,Replies or Forwards
+fwd all emails from jsmith,Replies or Forwards
+show me forwards,Replies or Forwards
+what's the conversation about thread,Replies or Forwards
+reply to and forward,Replies or Forwards
+show me emails that are responses to others,Replies or Forwards
+fwded emails only,Replies or Forwards
+emails replied to by me,Replies or Forwards
+"emails with ""re: """,Replies or Forwards
+show me replies from last week,Replies or Forwards
+replies from colleagues,Replies or Forwards
+what's been forwarded recently,Replies or Forwards
+emails marked as replies,Replies or Forwards
+search emails that have a reply,Replies or Forwards
+show all responses,Replies or Forwards
+fwded and replies,Replies or Forwards
+show me emails that are replies to others in the thread,Replies or Forwards
+only forward replies,Replies or Forwards
+email threads with replies,Replies or Forwards
+show me emails with a reply or forward,Replies or Forwards
+search for replies to specific sender,Replies or Forwards
+find forwarded emails,Replies or Forwards
+reply and forward emails,Replies or Forwards
+show all replied-to emails,Replies or Forwards
+"filter by ""replied to""",Replies or Forwards
+Long threads in my inbox,Thread Length
+Threads with many responses,Thread Length
+Show me all lengthy conversations,Thread Length
+Re: long email discussions,Thread Length
+Find threads over 20 replies,Thread Length
+Conversations that never end,Thread Length
+Longest emails in my thread,Thread Length
+Reply-heavy emails only,Thread Length
+Threads where people keep talking back,Thread Length
+Show me threads with a lot of responses,Thread Length
+Long email exchanges,Thread Length
+Re: multi-response conversations,Thread Length
+Emails with many follow-ups,Thread Length
+Thread length > 10 replies,Thread Length
+Show me all long discussions,Thread Length
+Reply-heavy inbox,Thread Length
+Conversations with many back-and-forth,Thread Length
+Find longest emails by thread,Thread Length
+Show me threads with a lot of activity,Thread Length
+Re: email conversations that never end,Thread Length
+Longest email chain,Thread Length
+Emails with lots of replies,Thread Length
+Thread length > 20 responses,Thread Length
+Show me all lengthy conversations,Thread Length
+Reply-heavy inbox only,Thread Length
+find emails with links,Emails with Links
+urls in inbox,Emails with Links
+check for hyperlinks,Emails with Links
+link emails today,Emails with Links
+search for url attachments,Emails with Links
+view emails with web addresses,Emails with Links
+find links from specific sender,Emails with Links
+check emails sent w links,Emails with Links
+emails containing external sites,Emails with Links
+look for web site links,Emails with Links
+show me urls in inbox,Emails with Links
+email with website address,Emails with Links
+check incoming link emails,Emails with Links
+url in outbox,Emails with Links
+search by link content,Emails with Links
+find emails from sender w links,Emails with Links
+check emails sent via link,Emails with Links
+show me external link emails,Emails with Links
+find hyperlinks in my mailbox,Emails with Links
+check for online invites,Emails with Links
+invites,Emails with Calendar Invites
+cal events,Emails with Calendar Invites
+events from john,Emails with Calendar Invites
+meeting invites,Emails with Calendar Invites
+calendar events today,Emails with Calendar Invites
+invite me to next week,Emails with Calendar Invites
+events sent by jane,Emails with Calendar Invites
+upcoming cal,Emails with Calendar Invites
+remind me about the meeting,Emails with Calendar Invites
+all events with subject event,Emails with Calendar Invites
+invite list,Emails with Calendar Invites
+events for this month,Emails with Calendar Invites
+what's my schedule like,Emails with Calendar Invites
+meeting reminders,Emails with Calendar Invites
+calendar invites june,Emails with Calendar Invites
+schedule for next week,Emails with Calendar Invites
+events from friday,Emails with Calendar Invites
+reminder: meeting tuesday,Emails with Calendar Invites
+events this week,Emails with Calendar Invites
+add to cal tonight,Emails with Calendar Invites
+event invites sent by tom,Emails with Calendar Invites
+upcoming meetings,Emails with Calendar Invites
+what's my schedule today,Emails with Calendar Invites
+send me a calendar invite,Emails with Calendar Invites
+remind me about friday,Emails with Calendar Invites
+"""Promo emails only""",Bulk or Promotional Emails
+"""Bulk sender""",Bulk or Promotional Emails
+"""Newsletters this week""",Bulk or Promotional Emails
+what's the largest email I've sent recently?,Emails by Size
+emails over 10mb,Emails by Size
+show me all small emails,Emails by Size
+which email is biggest,Emails by Size
+large attachments,Emails by Size
+find big emails,Emails by Size
+smallest emails,Emails by Size
+what's the largest file attached to an email?,Emails by Size
+emails over 50k,Emails by Size
+big emails in inbox,Emails by Size
+what size are my largest emails?,Emails by Size
+show me all small files sent,Emails by Size
+how big is my biggest email?,Emails by Size
+large attachments this week,Emails by Size
+find smallest emails,Emails by Size
+which email uses the most space?,Emails by Size
+emails under 1mb,Emails by Size
+show me large emails only,Emails by Size
+how to find large emails quickly,Emails by Size
+what are my largest attachments?,Emails by Size
+show me all small files attached,Emails by Size
+what's the smallest file I've sent?,Emails by Size
+emails over 100k,Emails by Size
+largest email size,Emails by Size
+find big emails with attachments,Emails by Size
+cc'd people,CC/BCC Recipients
+who's bcc'd on this?,CC/BCC Recipients
+sent to c.c.,CC/BCC Recipients
+emails with cc,CC/BCC Recipients
+find me all bcc,CC/BCC Recipients
+people copied in,CC/BCC Recipients
+c.c. recipients only,CC/BCC Recipients
+bcc list,CC/BCC Recipients
+email bcc search,CC/BCC Recipients
+see who's been cc'd,CC/BCC Recipients
+cc'd contacts,CC/BCC Recipients
+people listed as c.c.,CC/BCC Recipients
+bcc emails,CC/BCC Recipients
+show me all sent to,CC/BCC Recipients
+c.c. and bcc together,CC/BCC Recipients
+find emails with c.c.,CC/BCC Recipients
+cc list only,CC/BCC Recipients
+people in my email chain,CC/BCC Recipients
+all recipients of c.c.,CC/BCC Recipients
+emails with copies,CC/BCC Recipients
+see who got copied,CC/BCC Recipients
+bcc search emails,CC/BCC Recipients
+show me c.c. and bcc separately,CC/BCC Recipients
+people listed as c.c. or bcc,CC/BCC Recipients
+c.c. and bcc results,CC/BCC Recipients
+archived emails,Archived Emails
+show me archived ones,Archived Emails
+find my old emails,Archived Emails
+what's in archive,Archived Emails
+archived mailbox,Archived Emails
+get archived emails,Archived Emails
+archived folder,Archived Emails
+where are my archives,Archived Emails
+view archived messages,Archived Emails
+see all archived stuff,Archived Emails
+archived emails only,Archived Emails
+archived mail,Archived Emails
+what's archived today,Archived Emails
+my archived inbox,Archived Emails
+archived email search,Archived Emails
+archive folder contents,Archived Emails
+find old emails,Archived Emails
+archived account emails,Archived Emails
+view archived contacts,Archived Emails
+archived messages search,Archived Emails
+show me all archives,Archived Emails
+archived emails inbox,Archived Emails
+what's in the archive,Archived Emails
+get archived items,Archived Emails
+see my archived emails,Archived Emails
+junk folder,Spam or Junk
+what's spam?,Spam or Junk
+moved to junk,Spam or Junk
+deleted emails,Spam or Junk
+see spam messages,Spam or Junk
+filter out ads,Spam or Junk
+find blocked senders,Spam or Junk
+spam folder location,Spam or Junk
+delete junk emails today,Spam or Junk
+show me all spam,Spam or Junk
+stop getting spam,Spam or Junk
+how do i sort by spam,Spam or Junk
+why is this email spam?,Spam or Junk
+what are spam filters,Spam or Junk
+block spammer from my account,Spam or Junk
+find all flagged as spam,Spam or Junk
+delete spam messages,Spam or Junk
+can see spam emails online,Spam or Junk
+how to report spam here,Spam or Junk
+check for spam messages now,Spam or Junk
+remove junk emails forever,Spam or Junk
+stop receiving spam emails daily,Spam or Junk
+show me all spam messages at once,Spam or Junk
+help with spam filters,Spam or Junk
+why is my email being marked as spam,Spam or Junk
+delete all emails from last week,Action-based Queries
+what's in my spam folder?,Action-based Queries
+forward this one to myself,Action-based Queries
+reply to old messages from 2020,Action-based Queries
+archive all bills to pay,Action-based Queries
+find emails with attachments,Action-based Queries
+who sent me the weird email,Action-based Queries
+delete duplicates from inbox,Action-based Queries
+send a copy of this to john,Action-based Queries
+mark as read only those from clients,Action-based Queries
+what's in my trash folder?,Action-based Queries
+reply to pending emails,Action-based Queries
+get rid of all newsletters,Action-based Queries
+filter by subject: meeting invite,Action-based Queries
+forward all social media messages,Action-based Queries
+find emails with errors,Action-based Queries
+archive old receipts,Action-based Queries
+send a response to this one,Action-based Queries
+delete all newsletters from last month,Action-based Queries
+what's the sender's email for that company?,Action-based Queries
+reply to all emails with attachments,Action-based Queries
+mark as read those from colleagues,Action-based Queries
+get rid of all junk mail,Action-based Queries
+forward this message to my manager,Action-based Queries
+find and delete duplicate messages,Action-based Queries
+All emails from 'Friends',"Folders, Tabs, or Labels"
+Emails in Promotions tab,"Folders, Tabs, or Labels"
+Unread emails,"Folders, Tabs, or Labels"
+"Gmail: subject ""Meeting Invite""","Folders, Tabs, or Labels"
+Filtered inbox,"Folders, Tabs, or Labels"
+What's in my Primary folder?,"Folders, Tabs, or Labels"
+Inbox messages since March,"Folders, Tabs, or Labels"
+New email notifications,"Folders, Tabs, or Labels"
+All labeled 'Urgent',"Folders, Tabs, or Labels"
+Filtered by priority,"Folders, Tabs, or Labels"
+Emails from John Smith,"Folders, Tabs, or Labels"
+Show me all emails,"Folders, Tabs, or Labels"
+Find emails in Promotions,"Folders, Tabs, or Labels"
+Unread inbox items,"Folders, Tabs, or Labels"
+"Gmail: sender ""Acme Inc.""","Folders, Tabs, or Labels"
+My labels,"Folders, Tabs, or Labels"
+How many unread messages?,"Folders, Tabs, or Labels"
+Subject contains 'update',"Folders, Tabs, or Labels"
+Emails in Inbox,"Folders, Tabs, or Labels"
+Filter by date range,"Folders, Tabs, or Labels"
+Who sent me an email today?,"Folders, Tabs, or Labels"
+Show emails from this week,"Folders, Tabs, or Labels"
+Primary folder,"Folders, Tabs, or Labels"
+Email notifications settings,"Folders, Tabs, or Labels"
+What's new?,"Folders, Tabs, or Labels"
+meetings june,Meeting or Travel Details
+trip itin,Meeting or Travel Details
+travel booked,Meeting or Travel Details
+mtg on monday,Meeting or Travel Details
+airport pickup,Meeting or Travel Details
+hotel reservations,Meeting or Travel Details
+meeting notes,Meeting or Travel Details
+july schedule,Meeting or Travel Details
+flight details,Meeting or Travel Details
+conference call,Meeting or Travel Details
+travel plans,Meeting or Travel Details
+booking confirmation,Meeting or Travel Details
+weekend getaway,Meeting or Travel Details
+meeting room,Meeting or Travel Details
+travel dates,Meeting or Travel Details
+accommodation book,Meeting or Travel Details
+event invite,Meeting or Travel Details
+monday morning meeting,Meeting or Travel Details
+itineraries,Meeting or Travel Details
+hotel receipt,Meeting or Travel Details
+flight times,Meeting or Travel Details
+travel agency,Meeting or Travel Details
+meeting reminders,Meeting or Travel Details
+airport code,Meeting or Travel Details
+schedule update,Meeting or Travel Details
+"""Order status""",Email Status Updates
+"""Tracking info""",Email Status Updates
+"""Shipping updates""",Email Status Updates
+"""How's my order?""",Email Status Updates
+"""Delivery ETA""",Email Status Updates
+"""Status on my package""",Email Status Updates
+"""Order update""",Email Status Updates
+"""Service status check""",Email Status Updates
+"""Tracking number""",Email Status Updates
+"""Where is my stuff?""",Email Status Updates
+"""Order details""",Email Status Updates
+"""Service update""",Email Status Updates
+"""Shipping info""",Email Status Updates
+"""Is my order shipped yet?""",Email Status Updates
+"""When will I get it?""",Email Status Updates
+"""How long till delivery""",Email Status Updates
+"""Package status""",Email Status Updates
+"""What's the status on?""",Email Status Updates
+"""Can I track it?""",Email Status Updates
+"""Order progress""",Email Status Updates
+"""Is my order done yet?""",Email Status Updates
+"""Tracking info please""",Email Status Updates
+"""Service status""",Email Status Updates
+"""Where is my package?""",Email Status Updates
+"""Status of my shipment""",Email Status Updates
+whats all auto generated stuff,Auto-generated Emails
+bots from my bank,Auto-generated Emails
+no reply emails this week,Auto-generated Emails
+automated company messages,Auto-generated Emails
+spam emails to me,Auto-generated Emails
+what are these random emails,Auto-generated Emails
+filter out automated replies,Auto-generated Emails
+emails from non humans,Auto-generated Emails
+remove automated responses,Auto-generated Emails
+emails sent by machines,Auto-generated Emails
+whats the deal with no reply addresses,Auto-generated Emails
+auto generated sales pitch emails,Auto-generated Emails
+stop bot emails,Auto-generated Emails
+filter out auto responses,Auto-generated Emails
+how to block auto generated emails,Auto-generated Emails
+emails from automated systems,Auto-generated Emails
+delete all automated emails,Auto-generated Emails
+whats in my auto generated inbox,Auto-generated Emails
+can you show me only human emails,Auto-generated Emails
+emails with automated signatures,Auto-generated Emails
+how to turn off auto generated responses,Auto-generated Emails
+what are these automated newsletters,Auto-generated Emails
+block automated email alerts,Auto-generated Emails
+remove automated confirmations,Auto-generated Emails
+filter out auto sent emails,Auto-generated Emails

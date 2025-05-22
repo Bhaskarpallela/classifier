@@ -1,0 +1,964 @@
+query,label
+Who sent me that email?,0
+Emails from john,0
+Sent to my dad,0
+From my bank,0
+Email from sarah,0
+Recent emails from friends,0
+Who's been emailing me lately,0
+All emails from company email,0
+Sarah's emails,0
+Email address of customer service,0
+What did my boss say about the project?,0
+Emails with attachments,0
+From my phone number,0
+Emails with subject line meeting,0
+What are new emails?,0
+Send to my manager,0
+Who is this email from,0
+All sent by team lead,0
+My colleagues' emails,0
+New emails today,0
+Email address of new supplier,0
+Who emailed me last week,0
+Emails with keywords marketing,0
+Sent to my address,0
+Recent emails,0
+unread,0
+read all emails,0
+show me unsent emails,0
+what's in my inbox?,0
+unread stuff,0
+unopened messages,0
+show me everything,0
+how many unread emails do i have?,0
+filter by read status,0
+only show me new emails,0
+unopened mail,0
+all unseen emails,0
+unread and unopened,0
+my inbox,0
+what's new,0
+unsent messages,0
+check for unread emails,0
+show me unread stuff,0
+filter read emails,0
+new emails only,0
+how many emails are unread?,0
+everything that needs to be seen,0
+my unread messages,0
+unseen emails today,0
+show me the unread ones,0
+"""Attachements today""",0
+"""Show me emails with files""",0
+"""E-mails with attachments this week""",0
+star,0
+important emails today,0
+flagged inbox,0
+starred messages,0
+urgent emails,0
+show me everything marked as important,0
+what's new and starred,0
+key emails flagged,0
+can't miss emails,0
+starred in last week,0
+must see emails now,0
+flag all unread,0
+most starred messages,0
+urgent & important,0
+flagged by me today,0
+starred from this morning,0
+what's new and starred now,0
+show me everything I've flagged,0
+just starred emails,0
+mark as read all flagged,0
+today's starred ones,0
+starred that need action,0
+show me important emails only,0
+starred messages by sender,0
+filter to starred,0
+what did i buy at target,0
+emails from john smith,0
+meeting notes april,0
+what's the deadline again,0
+receipts for march,0
+update on project 123,0
+bills to pay this month,0
+confirm flight booking,0
+reminder for tomorrow,0
+company news 2023,0
+emails with attachments,0
+payment confirmation code,0
+sales reports january,0
+what's my password again,0
+follow up email 2 weeks,0
+meeting invite june,0
+confirm travel dates,0
+customer complaint form,0
+budget report for q1,0
+update on status,0
+emails with attachments today,0
+remind me of appointment,0
+company policy document,0
+what's the latest news,0
+confirmation email template,0
+what emails were sent yesterday,0
+received between Jan 1 - Feb 28,0
+all emails from this week,0
+"emails with subject ""work meeting""",0
+when did I get this email,0
+sent to johndoe@email.com in last month,0
+emails before Jan 15th,0
+new emails since monday,0
+all received emails on friday,0
+how old are these emails,0
+what time was my email sent,0
+"emails with keywords ""travel""",0
+emails from boss after hour,0
+what day did I get this email,0
+emails that have been read only once,0
+all unread emails in the last 24 hours,0
+when did john send me back an email,0
+new emails from janesmith@email.com,0
+emails before monday morning,0
+how many emails were sent today,0
+all emails with attachment,0
+received emails in december,0
+what time i got my first email of the day,0
+emails that are unread and older than a week,0
+when did I get this email last,0
+replies,0
+fwd all emails from jsmith,0
+show me forwards,0
+what's the conversation about thread,0
+reply to and forward,0
+show me emails that are responses to others,0
+fwded emails only,0
+emails replied to by me,0
+"emails with ""re: """,0
+show me replies from last week,0
+replies from colleagues,0
+what's been forwarded recently,0
+emails marked as replies,0
+search emails that have a reply,0
+show all responses,0
+fwded and replies,0
+show me emails that are replies to others in the thread,0
+only forward replies,0
+email threads with replies,0
+show me emails with a reply or forward,0
+search for replies to specific sender,0
+find forwarded emails,0
+reply and forward emails,0
+show all replied-to emails,0
+"filter by ""replied to""",0
+Long threads in my inbox,0
+Threads with many responses,0
+Show me all lengthy conversations,0
+Re: long email discussions,0
+Find threads over 20 replies,0
+Conversations that never end,0
+Longest emails in my thread,0
+Reply-heavy emails only,0
+Threads where people keep talking back,0
+Show me threads with a lot of responses,0
+Long email exchanges,0
+Re: multi-response conversations,0
+Emails with many follow-ups,0
+Thread length > 10 replies,0
+Show me all long discussions,0
+Reply-heavy inbox,0
+Conversations with many back-and-forth,0
+Find longest emails by thread,0
+Show me threads with a lot of activity,0
+Re: email conversations that never end,0
+Longest email chain,0
+Emails with lots of replies,0
+Thread length > 20 responses,0
+Show me all lengthy conversations,0
+Reply-heavy inbox only,0
+find emails with links,0
+urls in inbox,0
+check for hyperlinks,0
+link emails today,0
+search for url attachments,0
+view emails with web addresses,0
+find links from specific sender,0
+check emails sent w links,0
+emails containing external sites,0
+look for web site links,0
+show me urls in inbox,0
+email with website address,0
+check incoming link emails,0
+url in outbox,0
+search by link content,0
+find emails from sender w links,0
+check emails sent via link,0
+show me external link emails,0
+find hyperlinks in my mailbox,0
+check for online invites,0
+invites,0
+cal events,0
+events from john,0
+meeting invites,0
+calendar events today,0
+invite me to next week,0
+events sent by jane,0
+upcoming cal,0
+remind me about the meeting,0
+all events with subject event,0
+invite list,0
+events for this month,0
+what's my schedule like,0
+meeting reminders,0
+calendar invites june,0
+schedule for next week,0
+events from friday,0
+reminder: meeting tuesday,0
+events this week,0
+add to cal tonight,0
+event invites sent by tom,0
+upcoming meetings,0
+what's my schedule today,0
+send me a calendar invite,0
+remind me about friday,0
+"""Promo emails only""",0
+"""Bulk sender""",0
+"""Newsletters this week""",0
+what's the largest email I've sent recently?,0
+emails over 10mb,0
+show me all small emails,0
+which email is biggest,0
+large attachments,0
+find big emails,0
+smallest emails,0
+what's the largest file attached to an email?,0
+emails over 50k,0
+big emails in inbox,0
+what size are my largest emails?,0
+show me all small files sent,0
+how big is my biggest email?,0
+large attachments this week,0
+find smallest emails,0
+which email uses the most space?,0
+emails under 1mb,0
+show me large emails only,0
+how to find large emails quickly,0
+what are my largest attachments?,0
+show me all small files attached,0
+what's the smallest file I've sent?,0
+emails over 100k,0
+largest email size,0
+find big emails with attachments,0
+cc'd people,0
+who's bcc'd on this?,0
+sent to c.c.,0
+emails with cc,0
+find me all bcc,0
+people copied in,0
+c.c. recipients only,0
+bcc list,0
+email bcc search,0
+see who's been cc'd,0
+cc'd contacts,0
+people listed as c.c.,0
+bcc emails,0
+show me all sent to,0
+c.c. and bcc together,0
+find emails with c.c.,0
+cc list only,0
+people in my email chain,0
+all recipients of c.c.,0
+emails with copies,0
+see who got copied,0
+bcc search emails,0
+show me c.c. and bcc separately,0
+people listed as c.c. or bcc,0
+c.c. and bcc results,0
+archived emails,0
+show me archived ones,0
+find my old emails,0
+what's in archive,0
+archived mailbox,0
+get archived emails,0
+archived folder,0
+where are my archives,0
+view archived messages,0
+see all archived stuff,0
+archived emails only,0
+archived mail,0
+what's archived today,0
+my archived inbox,0
+archived email search,0
+archive folder contents,0
+find old emails,0
+archived account emails,0
+view archived contacts,0
+archived messages search,0
+show me all archives,0
+archived emails inbox,0
+what's in the archive,0
+get archived items,0
+see my archived emails,0
+junk folder,0
+what's spam?,0
+moved to junk,0
+deleted emails,0
+see spam messages,0
+filter out ads,0
+find blocked senders,0
+spam folder location,0
+delete junk emails today,0
+show me all spam,0
+stop getting spam,0
+how do i sort by spam,0
+why is this email spam?,0
+what are spam filters,0
+block spammer from my account,0
+find all flagged as spam,0
+delete spam messages,0
+can see spam emails online,0
+how to report spam here,0
+check for spam messages now,0
+remove junk emails forever,0
+stop receiving spam emails daily,0
+show me all spam messages at once,0
+help with spam filters,0
+why is my email being marked as spam,0
+delete all emails from last week,0
+what's in my spam folder?,0
+forward this one to myself,0
+reply to old messages from 2020,0
+archive all bills to pay,0
+find emails with attachments,0
+who sent me the weird email,0
+delete duplicates from inbox,0
+send a copy of this to john,0
+mark as read only those from clients,0
+what's in my trash folder?,0
+reply to pending emails,0
+get rid of all newsletters,0
+filter by subject: meeting invite,0
+forward all social media messages,0
+find emails with errors,0
+archive old receipts,0
+send a response to this one,0
+delete all newsletters from last month,0
+what's the sender's email for that company?,0
+reply to all emails with attachments,0
+mark as read those from colleagues,0
+get rid of all junk mail,0
+forward this message to my manager,0
+find and delete duplicate messages,0
+All emails from 'Friends',0
+Emails in Promotions tab,0
+Unread emails,0
+"Gmail: subject ""Meeting Invite""",0
+Filtered inbox,0
+What's in my Primary folder?,0
+Inbox messages since March,0
+New email notifications,0
+All labeled 'Urgent',0
+Filtered by priority,0
+Emails from John Smith,0
+Show me all emails,0
+Find emails in Promotions,0
+Unread inbox items,0
+"Gmail: sender ""Acme Inc.""",0
+My labels,0
+How many unread messages?,0
+Subject contains 'update',0
+Emails in Inbox,0
+Filter by date range,0
+Who sent me an email today?,0
+Show emails from this week,0
+Primary folder,0
+Email notifications settings,0
+What's new?,0
+meetings june,0
+trip itin,0
+travel booked,0
+mtg on monday,0
+airport pickup,0
+hotel reservations,0
+meeting notes,0
+july schedule,0
+flight details,0
+conference call,0
+travel plans,0
+booking confirmation,0
+weekend getaway,0
+meeting room,0
+travel dates,0
+accommodation book,0
+event invite,0
+monday morning meeting,0
+itineraries,0
+hotel receipt,0
+flight times,0
+travel agency,0
+meeting reminders,0
+airport code,0
+schedule update,0
+"""Order status""",0
+"""Tracking info""",0
+"""Shipping updates""",0
+"""How's my order?""",0
+"""Delivery ETA""",0
+"""Status on my package""",0
+"""Order update""",0
+"""Service status check""",0
+"""Tracking number""",0
+"""Where is my stuff?""",0
+"""Order details""",0
+"""Service update""",0
+"""Shipping info""",0
+"""Is my order shipped yet?""",0
+"""When will I get it?""",0
+"""How long till delivery""",0
+"""Package status""",0
+"""What's the status on?""",0
+"""Can I track it?""",0
+"""Order progress""",0
+"""Is my order done yet?""",0
+"""Tracking info please""",0
+"""Service status""",0
+"""Where is my package?""",0
+"""Status of my shipment""",0
+whats all auto generated stuff,0
+bots from my bank,0
+no reply emails this week,0
+automated company messages,0
+spam emails to me,0
+what are these random emails,0
+filter out automated replies,0
+emails from non humans,0
+remove automated responses,0
+emails sent by machines,0
+whats the deal with no reply addresses,0
+auto generated sales pitch emails,0
+stop bot emails,0
+filter out auto responses,0
+how to block auto generated emails,0
+emails from automated systems,0
+delete all automated emails,0
+whats in my auto generated inbox,0
+can you show me only human emails,0
+emails with automated signatures,0
+how to turn off auto generated responses,0
+what are these automated newsletters,0
+block automated email alerts,0
+remove automated confirmations,0
+filter out auto sent emails,0
+"""Upcoming meetings with John""",1
+"""Calendar view by attendee: Jane Smith""",1
+"""Show me all events with Michael""",1
+What's my schedule today?,1
+Show me tomorrow's events,1
+Today's appointments,1
+Schedule for now,1
+Tomorrow's meetings,1
+My calendar today,1
+Upcoming events,1
+Today only,1
+Tomorrow's schedule,1
+Events in a minute,1
+Show me the schedule,1
+What am I doing today?,1
+Calendar view tomorrow,1
+Today's schedule,1
+Quick look at my day,1
+Schedule for tonight too,1
+Find out what's going on tomorrow,1
+My daily events,1
+Tomorrow morning events,1
+Event list for today,1
+Check the schedule now,1
+All tomorrow events,1
+Show me right away,1
+Events for next hour,1
+Today's appointments only,1
+Show me upcoming weekly standups,1
+What's my schedule like this week?,1
+Where is class on Friday?,1
+How many times does I have yoga this month?,1
+Show me all classes for next 2 weeks,1
+What time is my meeting today?,1
+Can I see only recurring events for the quarter?,1
+Is there a weekly team call tonight?,1
+How can I cancel my monthly coaching session?,1
+What's my schedule like after work every Monday?,1
+Show me all standups in the next 4 weeks,1
+What day is my birthday party again?,1
+When are we having the quarterly review?,1
+Can I see only recurring appointments for today?,1
+How many times does I have a doctor's appointment this week?,1
+Show me all meetings with John next month,1
+Is there a daily team meeting at 2pm?,1
+How can I add a new class to my schedule?,1
+What time is our monthly sync meeting?,1
+Can I see only recurring events for the current month?,1
+Where is class on Saturday?,1
+Show me all weekly standups for the next quarter,1
+When does our team's project deadline fall?,1
+How many times does I have a workout session this week?,1
+What time are we having lunch tomorrow?,1
+What's rescheduled from Feb 10?,1
+Show me all canceled events,1
+Find rescheduled events in March,1
+Which event was canceled and rescheduled?,1
+Rescheduled events this month,1
+Cancelled events today,1
+Reschedule Feb 15 to next week,1
+Show me all past rescheduled events,1
+Canceled events for tomorrow,1
+What's the rescheduled date of my Feb 20 event?,1
+List upcoming canceled events,1
+Show me my rescheduled meetings,1
+Which event was originally scheduled on Jan 1 and rescheduled?,1
+Today's canceled events,1
+Reschedule today's meeting to next week,1
+Find all past canceled events,1
+Is my Feb 5 event still on or rescheduled?,1
+Cancelled events for next month,1
+Reschedule Saturday's event to Monday instead,1
+Show me my rescheduled appointments,1
+What time was my original Feb 12 event rescheduled to?,1
+List today's canceled and rescheduled events,1
+Can you find the rescheduled date of my March 15 event?,1
+Find all upcoming rescheduled events,1
+Which event got rescheduled due to weather?,1
+Show me upcoming Zoom meetings,1
+What are my Google Meet appointments today?,1
+Find all events with Google Meet links this week,1
+Upcoming calls to add to calendar,1
+Schedule a call in Google Meet,1
+Show only Zoom meetings for tomorrow,1
+List of Google Meet events this month,1
+Add a new meeting with Zoom link,1
+Google Meet schedule for next two weeks,1
+Zoom or Google Meet events at 2 PM today,1
+Cancel upcoming Google Meet meeting,1
+Find all scheduled Zoom meetings on Friday,1
+What are my Google Meet appointments next week?,1
+Delete old Google Meet event,1
+Add new event with Zoom link,1
+Show only upcoming Google Meet meetings,1
+List of events with both Zoom and Google Meet links,1
+Upcoming Google Meet meeting for team,1
+Create a new Zoom meeting invite,1
+Cancel current Zoom meeting,1
+Google Meet schedule for the week,1
+Find all scheduled calls to add,1
+Delete old Zoom event,1
+Create new Google Meet meeting room,1
+Show only events with both Zoom and Google Meet links,1
+Show me my gym session on Friday,1
+Find all birthdays this month,1
+What's my doctor appointment today?,1
+Add new event for dinner tonight,1
+Upcoming personal events next week,1
+"Delete event with ""Meeting"" in subject line",1
+Who's my sister's birthday,1
+Find a recurring event,1
+Show upcoming appointments with Dr Smith,1
+Schedule coffee with John tomorrow,1
+Remove event from Friday,1
+What time is my yoga class Saturday,1
+List all events on Sunday,1
+"Change event title ""Job Interview""",1
+Get reminders for Monday's meeting,1
+Create a new recurring appointment,1
+Show me this week's personal events,1
+Find an event with a specific guest name (Emily),1
+Mark as done tomorrow's task,1
+Add note to next Friday's meeting,1
+List all events on my birthday month,1
+Cancel upcoming doctor visit,1
+Find the earliest appointment I have this week,1
+Schedule a reminder for 3pm today,1
+Remove event from my calendar,1
+"""Upcoming events in New York City""",1
+"""Today's events near me""",1
+"""Events happening tomorrow in downtown LA""",1
+What's my availability on Sat March 18?,1
+When am I free this week?,1
+Check my schedule for today,1
+"""Find overlapping events today""",1
+"""What's conflicting with my meeting at 2pm?""",1
+"""Events on the same day as tomorrow""",1
+What's my schedule this week?,1
+Upcoming meetings,1
+Events for today,1
+My events this weekend,1
+Show me all my upcoming appointments,1
+Schedule for tomorrow,1
+What's my calendar like right now,1
+All events in 2 weeks,1
+Show me what I have on Monday,1
+Any events tonight,1
+What are my commitments next week,1
+My schedule for the day,1
+Events between Thursday and Friday,1
+Today's appointments,1
+Show me all events in March,1
+Upcoming birthdays,1
+What time do I have a meeting today,1
+This week's schedule,1
+Any events with Sarah tomorrow,1
+My schedule from Monday to Friday,1
+Show me what's coming up next month,1
+Events starting at 2pm today,1
+How many events do I have on the 15th,1
+What are my appointments in April,1
+Quick view of my calendar,1
+Show me my upcoming tasks,1
+Reminders for tomorrow and Friday,1
+What's due today,1
+What are my all-day events today?,1
+Show me today's all-day appointments,1
+Which events last the whole day?,1
+List all-day events on Friday,1
+What's on my calendar for a full day?,1
+Today's all-day schedule,1
+Find events that start and end on the same day,1
+Display daily events for tomorrow,1
+All-day events this weekend,1
+Upcoming all-day appointments,1
+Show me today's all-day meetings,1
+What are my one-day commitments?,1
+Full-day events in my calendar,1
+List daily scheduled events,1
+Events that span the entire day,1
+What's on my calendar for a full 24 hours?,1
+Today's all-day schedule,1
+List of full-day appointments,1
+What time are my one-day events?,1
+All-day schedule today,1
+Find events that last an entire day,1
+Display daily events in my calendar,1
+Full-day scheduled events,1
+My one-day commitments for this week,1
+Today's full-day appointments,1
+Show me weekend events,1
+What's happening on Sat?,1
+Find all holidays this month,1
+Schedule something Sat/Sun,1
+List upcoming holidays,1
+Events in Feb Fri-Sun,1
+Get a list of holiday events,1
+Weekend events only,1
+Sat and Sun appointments,1
+Holiday calendar for Feb,1
+Show me this weekend's schedule,1
+Schedule an event Sat,1
+"Only show weekends, please",1
+What is on Feb 17?,1
+Fri-Sun events in Feb,1
+Upcoming weekend events,1
+List all Sat and Sun events,1
+This weekend only,1
+Find my upcoming holidays,1
+Show me events for the wknd,1
+Schedule something next Sat/Sun,1
+Events on Sat and Sun,1
+What's happening this wknd?,1
+List Fri-Sun appointments,1
+Holiday schedule Feb 1-28,1
+What's my schedule for tomorrow?,1
+Upcoming meetings on Friday,1
+Today's work events,1
+This week's deadlines,1
+Events after lunch,1
+All my work appointments,1
+Schedule today only,1
+What's next week's agenda like,1
+Work hours tonight,1
+Meeting with John at 2pm,1
+Is there a meeting scheduled for 3pm?,1
+My weekly review schedule,1
+Time block for project X,1
+This quarter's objectives meetings,1
+Events all day Saturday,1
+What's on the calendar for Monday,1
+Upcoming work calls,1
+Schedule change request,1
+All my work commitments,1
+Meeting room availability tonight,1
+My daily routine schedule,1
+Work appointments this week,1
+Is there a meeting at 5pm?,1
+Calendar view by date range,1
+How many meetings does John have,1
+What's coming up on my shared calendar this week?,1
+Show me all events in the Marketing team calendar,1
+Find any meetings I have with Sarah today,1
+Show me all high priority events today,1
+What urgent meetings do I have tomorrow?,1
+Find and mark as done any pending tasks due this week,1
+List upcoming events with a start time under 2 hours,1
+What's my first high priority meeting?,1
+"Find events on Friday and tag them as ""urgent""",1
+Show me only my schedule for today,1
+Get all events that need to be completed by end of month,1
+What urgent tasks are due soon?,1
+Highlight upcoming events with a 3pm start time,1
+"Filter events by start time: this week, 2pm",1
+Find any high priority meetings I have next week,1
+Show me my schedule for the next 24 hours,1
+Get all events that require my attention today,1
+"List upcoming events tagged as ""high priority""",1
+What's my first meeting of the day?,1
+Filter by urgent: all events this week,1
+Find and mark as done any tasks with a due date tomorrow,1
+Show me only events from 2pm onwards,1
+Get all high priority meetings I have scheduled,1
+Highlight upcoming events on Monday and Tuesday,1
+"Find events tagged as ""urgent"" that require my action today",1
+What's the earliest start time for an urgent event?,1
+List events due within the next 3 days,1
+Show me only my schedule for tomorrow,1
+What's my schedule next week?,1
+Show me upcoming events,1
+Events in the next 7 days,1
+Upcoming appointments today/this week,1
+Schedule for tomorrow,1
+Events next month,1
+Weekday calendar,1
+Events with guests added,1
+Upcoming meetings,1
+Calendar view for this week,1
+What's my schedule like in 2 weeks?,1
+Today's events,1
+Show me upcoming social events,1
+Schedule today,1
+Reminders for next Thursday,1
+Weekday calendar view,1
+Events with travel time included,1
+Upcoming birthdays,1
+What's on my calendar for Monday,1
+Event reminders in the next 2 days,1
+Calendar overview for this week,1
+Show me all upcoming events,1
+Schedule for Friday and Saturday,1
+Events that require a flight,1
+Next weekend schedule,1
+What unresponded events have I got coming up?,1
+Declined meetings this week,1
+Unscheduled appointments today,1
+Unaccepted social events,1
+Missed meetups in February,1
+Events that were declined by me,1
+Uninvited guests for dinner,1
+Calender unconfirmations,1
+Cancelled appointments last month,1
+Unresponed invites,1
+Meetings I didn't show up to,1
+Scheduled events nobody showed up to,1
+Calendar declines this week,1
+Unaccepted social invitations,1
+Missed dates with friends,1
+Events that weren't accepted by me,1
+Calender no-shows last month,1
+Social event invites that were declined,1
+Unscheduled events today,1
+Unconfirmed meetups,1
+Declined booking appointments,1
+Calendar unresponses this week,1
+Missed bookings in January,1
+Events I didn't respond to,1
+Calender missed meetings,1
+One on one meetings today,1
+What time is my group meeting?,1
+Schedule a new one-on-one meeting,1
+Who's attending the meeting at 2pm,1
+How many people are in the team meeting,1
+What time does it end?,1
+Can I move this event to tomorrow,1
+Is there room for an extra person in the group meeting,1
+Set reminders for both meetings,1
+Group meeting today,1
+When is my one on one meeting with John,1
+How long are we keeping the team meeting open,1
+Create a new meeting invite,1
+What time does my meeting end?,1
+Team meeting duration,1
+Can I schedule an alternative time for this one-on-one,1
+Number of attendees in group meeting,1
+Schedule today's one on one,1
+Find upcoming one-on-one meetings,1
+Is there space for an additional guest in the team meeting,1
+Meeting invite details,1
+Schedule a new meeting,1
+How long before my group meeting should I start preparing,1
+Upcoming team meeting times,1
+What time do we take a break,1
+"Show me all events with ""project deadline""",1
+What's my meeting on Friday?,1
+Find upcoming birthday party,1
+"See all events with ""team meeting""",1
+What are my appointments tomorrow,1
+Is today a holiday?,1
+Schedule a lunch meeting at 2 PM,1
+My birthday party is next week,1
+Show me all client meetings for this month,1
+Reminder: conference call in an hour,1
+"Find events with ""team building""",1
+What's my appointment on Monday afternoon,1
+Today's schedule,1
+See upcoming events with travel,1
+Schedule a meeting with John at 3 PM,1
+Upcoming appointments,1
+Is there a company event today?,1
+Show me all recurring events,1
+Reminder: presentation in an hour,1
+"Find events with ""workshop""",1
+What's my schedule like tomorrow,1
+My birthday party details,1
+Schedule a team meeting at 10 AM,1
+Today's schedule and reminders,1
+See all events for next weekend,1
+"""Upcoming back-to-back meetings""",1
+"""Meetings with multiple dates in one day""",1
+"""Back-to-back meeting schedule today""",1
+Show me my upcoming appointments this week,1
+What's happening tomorrow and next Friday?,1
+My schedule for the past month,1
+Upcoming events after March 15th,1
+Events I have in April,1
+Schedule for today and tomorrow,1
+What events were scheduled for last year,1
+Events from Feb 1st to March 31st,1
+Show me my daily schedule for next week,1
+Reminders from the past month,1
+What's my schedule like today?,1
+Morning appointments,1
+Schedule tonight,1
+Is there an evening event,1
+Evening events this weekend,1
+What's my schedule for tomorrow,1
+Any events at 6pm,1
+My morning routine,1
+Can I fit in a workout?,1
+Afternoon meeting today,1
+Is it 7pm yet,1
+Schedule this weekend,1
+Evenings only,1
+Events after 5pm tonight,1
+Do I have time for lunch?,1
+Morning and afternoon events,1
+How many appointments do I have?,1
+My evening plans,1
+Can you check my schedule,1
+Any events at 8pm,1
+Schedule changes,1
+Is there a meeting this morning,1
+Morning or afternoon availability,1
+All events tonight,1
+What's on my calendar,1
+Find me all events over an hour long today,1
+What's my schedule for tomorrow if it's more than 60 minutes?,1
+I want upcoming events longer than one hour.,1
+What are my recurring events that I missed?,1
+Find me all cancelled events,1
+Check if event was changed from all-day to half-day,1
+Upcoming team meetings involving marketing department,1
+Show me today's and tomorrow's team meetings with sales,1
+What are all my team meeting events this week?,1
+Meetings with HR team this month,1
+Find all scheduled meetings for the IT department next quarter,1
+Today's team meeting minutes from marketing,1
+Schedule a meeting with the marketing team,1
+Team meetings cancelled in January,1
+Which team lead has meetings at 2 PM today,1
+Show me my calendar events for this week only,1
+All meetings from Feb 1 - March 31 involving sales team,1
+Upcoming team meetings with the product team,1
+Find all recurring meetings involving customer service,1
+Team meeting invite to the R&D department,1
+Today's and tomorrow's IT meeting times,1
+All upcoming meetings for our marketing director,1
+Meeting details from the finance team this week,1
+Which of my events conflict with an existing meeting?,1
+Schedule a meeting with the HR team at 10 AM,1
+Upcoming weekly team meetings involving customer support,1
+Team meeting invite to the sales team on Friday,1
+Find all recurring meetings for the IT department,1
+Meetings from March 1 - April 30 with the design team,1
+Show me my calendar events from last week only,1
+Update reminders for all upcoming marketing team meetings,1
+Show me all events with attachments,1
+Find meetings with documents attached,1
+Get all calendar events that include files,1
+What are my virtual events today?,1
+Schedule an in-person meeting with John,1
+Who's coming to my event on Friday?,1
+Add my birthday party to calendar,1
+Delete the webinar from tomorrow,1
+What are my upcoming in-person appointments?,1
+Find a virtual conference for sales team,1
+Remind me of my online class,1
+Cancel the dinner meeting with Sarah,1
+List all events at 2 PM,1
+Mark the holiday party as private,1
+Add the podcast recording to schedule,1
+What are my scheduled in-person meetings this week?,1
+Remove the virtual meetup from my list,1
+Set reminders for my online course deadlines,1
+Find a virtual happy hour event with friends,1
+What are my upcoming events on Monday?,1
+Create a new virtual meeting invite for team,1
+Delete the email reminder about the conference,1
+List all virtual events for next week,1
+Remind me of my scheduled training session,1
+"Update the status of my online project to ""in progress""",1
+Schedule an in-person check-in with manager,1
+Find a virtual workshop on marketing strategy,1
+Cancel the RSVP for my friend's birthday party,1
+What's my 'Maybe' event for tomorrow?,1
+Show me all unconfirmed events,1
+My upcoming 'Maybe' events,1
+What events are outside my work hours today?,1
+Show me events after 5 pm tonight,1
+Find all non-work hours events this week,1
+Events after 9 am tomorrow,1
+"My personal schedule only, no work events",1
+Events outside of office hours today,1
+Schedule view for evenings and weekends,1
+All weekend events,1
+Only show me family time,1
+Work hours off until Monday morning,1
+Evening and weekend events only,1
+What's on my calendar after 7 pm tonight?,1
+Filter out work commitments,1
+"My personal calendar, no work events",1
+Afternoon and evening events today,1
+Weekdays evenings events,1
+Events outside of office hours this week,1
+Show me family schedule for tomorrow,1
+Schedule view from 5 pm onwards,1
+No work events on Fridays,1
+Evening and weekend events until Sunday,1
+All non-work time slots tonight,1
+"Family time only, no work events",1
+My personal calendar outside of work hours,1
+Show me evening and weekend schedule,1
+Find emails with PDF attachments,0
+Show me unread messages in my inbox,0
+Search for emails from Sarah about the project proposal,0
+Find messages with subject line 'quarterly report',0
+Show all emails I've received from marketing@company.com,0
+Find emails with large attachments,0
+Search for emails I starred last week,0
+Show me all emails in my Promotions tab,0
+Find messages with the label 'Urgent',0
+When is my next meeting with the design team?,1
+Show me all events scheduled for next Tuesday,1
+Find appointments with Dr. Johnson,1
+When did I schedule the quarterly review?,1
+Show me all recurring meetings,1
+Find events where I'm marked as optional,1
+When is the marketing presentation scheduled?,1
+Show me all-day events in May,1
+Find meetings I haven't responded to yet,1
+When is the team lunch scheduled for?,1
